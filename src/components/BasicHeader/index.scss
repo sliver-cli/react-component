@@ -1,0 +1,26 @@
+.header-wrapper {
+  height: 50px;
+  width: 100%;
+  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.2);
+  .header-main {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .logo {
+      width: 40px;
+    }
+    .header-menu {
+      flex: 1 auto;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      padding: 0 30px;
+      div {
+        padding: 0 20px;
+      }
+    }
+  }
+}
