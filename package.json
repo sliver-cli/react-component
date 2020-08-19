@@ -1,8 +1,8 @@
 {
-  "name": "react",
+  "name": "react-component",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/react/",
+  "homepage": "/react-component/",
   "description": "react component template",
   "scripts": {
     "build": "webpack --progress --config webpack.prod.js",
