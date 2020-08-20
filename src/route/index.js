@@ -5,7 +5,7 @@ import BasicHeader from '../components/BasicHeader';
 
 const AppRoute = () => (
   <Switch>
-    <Route path="/basicheader" component={BasicHeader} />
+    <Route path="/BasicHeader" component={BasicHeader} />
   </Switch>
 );
 

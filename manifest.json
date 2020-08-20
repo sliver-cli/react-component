@@ -3,7 +3,6 @@
     "name": "BasicHeader",
     "title": "基础网页头部组件",
     "description": "基础网页头部组件，包含logo，菜单栏",
-    "preview": "basicheader",
     "filepath": "src/components/BasicHeader"
   }
 ]

@@ -1,7 +1,7 @@
 const menu = [
   {
     name: '基础头部',
-    path: '/basicheader'
+    path: '/BasicHeader'
   }
 ];
 
