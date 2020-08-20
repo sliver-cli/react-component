@@ -4,5 +4,11 @@
     "title": "基础网页头部组件",
     "description": "基础网页头部组件，包含logo，菜单栏",
     "filepath": "src/components/BasicHeader"
+  },
+  {
+    "name": "CustomIcon",
+    "title": "自定义图标",
+    "description": "自定义图标",
+    "filepath": "src/components/CustomIcon"
   }
 ]
